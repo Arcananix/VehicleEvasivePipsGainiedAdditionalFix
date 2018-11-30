@@ -50,7 +50,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ActorMovementSequence_OnAdded_Patch.cs" />
     <Compile Include="Main.cs" />
     <Compile Include="VehiclePatch.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

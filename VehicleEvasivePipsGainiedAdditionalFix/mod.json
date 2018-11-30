@@ -6,8 +6,8 @@
   "Author": "Arcanan",
   "Website": "https://github.com/Arcananix",
 
-  "Version": "1.0.0",
-  "PackagedOn": "2018-10-23",
+  "Version": "1.1.0",
+  "PackagedOn": "2018-11-29",
 
   "DLL": "VehicleEvasivePipsGainiedAdditionalFix.dll",
   "DLLEntryPoint": "VehicleEvasivePipsGainiedAdditionalFix.Main.Init",
